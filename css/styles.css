@@ -8,12 +8,12 @@
 
 /* Variaveis */
 :root {
-    --main-color: #443737;
-    --main-text-color: #F0E3CA;
-    --boder-color:  #FF0000;
-    --bio-bg-color: #EC610A;
-    --bio-boder-color: #FF8303;
-    --sobre-bg-color: #A35709;
+    --main-color: #76ABAE;       /* #F2613F*/      /* #76ABAE*/  ;
+    --main-text-color: #EEEEEE;  /* #EAD8C0*/      /* #EEEEEE*/  ;
+    --boder-color:  #FF4D00;     /* #F2613F*/      /* #FF4D00*/    ;
+    --bio-bg-color: #31363F;     /* #481E14*/      /* #31363F*/  ;
+    --bio-boder-color: #EAD8C0;  /* #FF8303*/      /* #FF4D00*/    ;
+    --sobre-bg-color: #222831;   /* #A35709*/      /* #222831*/  ;
 }
 
 /* Geral */
